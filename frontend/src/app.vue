@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import "./assets/css/main.css";
+import "./assets/css/transition-page-switch.css";
 // eslint-disable-next-line import/no-unresolved
 import "uno.css";
 import { useHead } from "@unhead/vue";
